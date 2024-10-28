@@ -27,9 +27,8 @@ presskey_t;     // Press 'T'
 presskey_c;     // Press 'C'
 presskey_h;     // Press 'H'
 presskey_dot;   // Press '.'
-presskey_c;     // Press 'C'
-presskey_o;     // Press 'O'
-presskey_m;     // Press 'M'
+presskey_t;     // Press 'T'
+presskey_v;     // Press 'V'
 
 // Wait for the website to load
 wait(2);        // Pause for 2 seconds
